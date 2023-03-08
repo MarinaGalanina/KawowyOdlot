@@ -3,3 +3,6 @@
 
 
 Kawowy Odlot was my first game made during 24 hours PyGame challenge. I faced up with Python for the first time. Everything is created in Python with PyGame (pygame is a Python wrapper for the SDL library, which stands for Simple DirectMedia Layer).
+
+## Installation of PyGame
+Windows: python -m pip install pygame
